@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\bin\Debug\net8.0\Fonksiyonlar.exe
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\bin\Debug\net8.0\Fonksiyonlar.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\bin\Debug\net8.0\Fonksiyonlar.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\bin\Debug\net8.0\Fonksiyonlar.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\bin\Debug\net8.0\Fonksiyonlar.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\Fonksiyonlar.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\Fonksiyonlar.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\refint\Fonksiyonlar.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\Fonksiyonlar.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\Fonksiyonlar.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Fonksiyonlar\obj\Debug\net8.0\ref\Fonksiyonlar.dll
