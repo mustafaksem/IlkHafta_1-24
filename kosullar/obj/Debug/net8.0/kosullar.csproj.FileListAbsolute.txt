@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\bin\Debug\net8.0\kosullar.exe
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\bin\Debug\net8.0\kosullar.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\bin\Debug\net8.0\kosullar.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\bin\Debug\net8.0\kosullar.dll
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\bin\Debug\net8.0\kosullar.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\kosullar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\kosullar.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\kosullar.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\kosullar.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\kosullar.dll
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\refint\kosullar.dll
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\kosullar.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\kosullar.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\kosullar\obj\Debug\net8.0\ref\kosullar.dll
