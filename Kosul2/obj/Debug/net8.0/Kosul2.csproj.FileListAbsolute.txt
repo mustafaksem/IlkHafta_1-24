@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\bin\Debug\net8.0\Kosul2.exe
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\bin\Debug\net8.0\Kosul2.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\bin\Debug\net8.0\Kosul2.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\bin\Debug\net8.0\Kosul2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\bin\Debug\net8.0\Kosul2.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\Kosul2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\Kosul2.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\Kosul2.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\Kosul2.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\Kosul2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\refint\Kosul2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\Kosul2.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\Kosul2.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Kosul2\obj\Debug\net8.0\ref\Kosul2.dll
