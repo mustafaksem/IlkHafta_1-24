@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\bin\Debug\net8.0\Class3.exe
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\bin\Debug\net8.0\Class3.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\bin\Debug\net8.0\Class3.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\bin\Debug\net8.0\Class3.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\bin\Debug\net8.0\Class3.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\Class3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\Class3.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\Class3.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\Class3.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\Class3.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\refint\Class3.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\Class3.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\Class3.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Class3\obj\Debug\net8.0\ref\Class3.dll
