@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\bin\Debug\net8.0\Deneme_1.exe
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\bin\Debug\net8.0\Deneme_1.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\bin\Debug\net8.0\Deneme_1.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\bin\Debug\net8.0\Deneme_1.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\bin\Debug\net8.0\Deneme_1.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\Deneme_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\Deneme_1.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\Deneme_1.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\Deneme_1.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\Deneme_1.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\refint\Deneme_1.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\Deneme_1.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\Deneme_1.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Deneme_1\obj\Debug\net8.0\ref\Deneme_1.dll
