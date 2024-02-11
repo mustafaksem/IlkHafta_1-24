@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\bin\Debug\net8.0\ProjeDeneyimi1.exe
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\bin\Debug\net8.0\ProjeDeneyimi1.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\bin\Debug\net8.0\ProjeDeneyimi1.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\bin\Debug\net8.0\ProjeDeneyimi1.dll
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\bin\Debug\net8.0\ProjeDeneyimi1.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ProjeDeneyimi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ProjeDeneyimi1.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ProjeDeneyimi1.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ProjeDeneyimi1.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ProjeDeneyimi1.dll
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\refint\ProjeDeneyimi1.dll
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ProjeDeneyimi1.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ProjeDeneyimi1.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\ProjeDeneyimi1\obj\Debug\net8.0\ref\ProjeDeneyimi1.dll
