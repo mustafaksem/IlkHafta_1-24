@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\bin\Debug\net8.0\Class2.exe
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\bin\Debug\net8.0\Class2.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\bin\Debug\net8.0\Class2.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\bin\Debug\net8.0\Class2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\bin\Debug\net8.0\Class2.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\Class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\Class2.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\Class2.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\Class2.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\Class2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\refint\Class2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\Class2.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\Class2.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Class2\obj\Debug\net8.0\ref\Class2.dll
