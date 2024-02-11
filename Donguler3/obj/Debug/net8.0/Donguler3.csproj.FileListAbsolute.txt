@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\bin\Debug\net8.0\Donguler3.exe
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\bin\Debug\net8.0\Donguler3.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\bin\Debug\net8.0\Donguler3.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\bin\Debug\net8.0\Donguler3.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\bin\Debug\net8.0\Donguler3.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\Donguler3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\Donguler3.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\Donguler3.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\Donguler3.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\Donguler3.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\refint\Donguler3.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\Donguler3.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\Donguler3.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Donguler3\obj\Debug\net8.0\ref\Donguler3.dll
