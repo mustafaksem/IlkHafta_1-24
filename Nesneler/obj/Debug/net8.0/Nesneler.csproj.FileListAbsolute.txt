@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\bin\Debug\net8.0\Nesneler.exe
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\bin\Debug\net8.0\Nesneler.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\bin\Debug\net8.0\Nesneler.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\bin\Debug\net8.0\Nesneler.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\bin\Debug\net8.0\Nesneler.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\Nesneler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\Nesneler.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\Nesneler.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\Nesneler.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\Nesneler.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\refint\Nesneler.dll
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\Nesneler.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\Nesneler.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\Nesneler\obj\Debug\net8.0\ref\Nesneler.dll
